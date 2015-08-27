@@ -1,5 +1,5 @@
 .jumbotron{
-	background: url("orienteer-poster.png");
+	background: url("images/orienteer-poster.png");
 	height: 686px;
 }
 
@@ -13,4 +13,9 @@
 
 .jumbotron p{
 	margin-bottom: 30px;
+}
+
+.slick-prev:before, .slick-next:before{ 
+  color: #05092C !important;
+  font-size: 40px;
 }
